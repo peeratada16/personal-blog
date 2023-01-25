@@ -1,0 +1,60 @@
+.bg{
+    width: 100%;
+    height: 700vw;
+    
+}
+
+.bottombg {
+    background-color: #DBE2EF;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.headerimg{
+    width: 100%;
+}
+
+.storyheader{
+    display: block;
+    width: 100%;
+    height: 20vw;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    font-size: 6rem;
+}
+
+.imgbox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    padding: 2% 2% 2% 2%;
+    
+}
+
+.prof2{
+    width: 100%;
+    height: 720px;
+    object-fit: cover;
+    
+    
+}
+
+.prof1{
+    width: 100%;
+    height: 1080px;
+    object-fit: cover;
+}
+
+.greeting-box{
+    width: 100%;
+    height: 680px;
+    
+}
+
+@media screen and (max-width:1040px) {
+
+   
+
+}
